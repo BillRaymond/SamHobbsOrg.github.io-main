@@ -1,0 +1,537 @@
+{
+	"printers": {
+		"printer": [
+			{
+				"Make": "Brother",
+				"Model": "HL-3180CDW",
+				"Href": "https://www.brother-usa.com/products/HL3180CDW",
+				"Tech": "LED",
+				"InkModel": "TN221BK",
+				"Yield": "2500",
+				"InkCost": "70",
+				"ListPrice": "330",
+				"OtherPrice": "280",
+				"TouchScreen": "3.7",
+				"Volume": "1500",
+				"Notes": "LED; no document feed; number buttons; 300 minimum volume?",
+				"Dimensions": {
+					"Width": "16.1",
+					"Depth": "19",
+					"Height": "16.1"
+				}
+			},
+			{
+				"Make": "Brother",
+				"Model": "MFC-J5330DW",
+				"Href": "https://www.brother-usa.com/products/MFCJ5330DW",
+				"Tech": "Jet",
+				"InkModel": "LC3017BK",
+				"Yield": "550",
+				"InkCost": "25",
+				"ListPrice": "200",
+				"TouchScreen": "2.7",
+				"Volume": "2000",
+				"Dimensions": {
+					"Width": "20.9",
+					"Depth": "15.7",
+					"Height": "12"
+				}
+			},
+			{
+				"Make": "Brother",
+				"Model": "MFC-J6530DW",
+				"Href": "https://www.brother-usa.com/products/MFCJ6530DW",
+				"Tech": "Jet",
+				"InkModel": "LC3017BK",
+				"Yield": "550",
+				"InkCost": "25",
+				"ListPrice": "230",
+				"TouchScreen": "2.7",
+				"Volume": "2000",
+				"Dimensions": {
+					"Width": "22.6",
+					"Depth": "18.8",
+					"Height": "12"
+				}
+			},
+			{
+				"Make": "Brother",
+				"Model": "MFC-J6535DW XL",
+				"Href": "https://www.brother-usa.com/products/MFCJ6535DWXL",
+				"Tech": "Jet",
+				"InkModel": "LC3029BK",
+				"Yield": "3000",
+				"InkCost": "30",
+				"ListPrice": "550",
+				"OtherPrice": "440",
+				"TouchScreen": "3.7",
+				"Volume": "0",
+				"Notes": "XL model includes16 Super High-Yield Cartridges",
+				"Dimensions": {
+					"Width": "22.6",
+					"Depth": "18.8",
+					"Height": "12"
+				}
+			},
+			{
+				"Make": "Brother",
+				"Model": "MFC-J6545DW XL",
+				"Href": "https://www.brother-usa.com/products/MFCJ6545DW",
+				"Tech": "Jet",
+				"InkModel": "LC3037BK",
+				"Yield": "3000",
+				"InkCost": "35",
+				"ListPrice": "280",
+				"Volume": "2000",
+				"Dimensions": {
+					"Width": "22.6",
+					"Depth": "18.8",
+					"Height": "12.2"
+				}
+			},
+			{
+				"Make": "Brother",
+				"Model": "MFC-J6935DW",
+				"Href": "https://www.brother-usa.com/products/MFCJ6935DW",
+				"Tech": "Jet",
+				"InkModel": "LC3029BK",
+				"Yield": "3000",
+				"InkCost": "30",
+				"ListPrice": "350",
+				"TouchScreen": "3.7",
+				"Volume": "2000",
+				"Dimensions": {
+					"Width": "22.6",
+					"Depth": "18.8",
+					"Height": "14.7"
+				}
+			},
+			{
+				"Make": "Brother",
+				"Model": "MFC-J775DW XL",
+				"Href": "https://www.brother-usa.com/products/MFCJ775DWXL",
+				"Tech": "Jet",
+				"InkModel": "LC20EBK",
+				"Yield": "2400",
+				"InkCost": "24",
+				"ListPrice": "250",
+				"TouchScreen": "no",
+				"Volume": "1000",
+				"Dimensions": {
+					"Width": "16.5",
+					"Depth": "13.4",
+					"Height": "6.8"
+				}
+			},
+			{
+				"Make": "Brother",
+				"Model": "MFC-J995DW",
+				"Href": "https://www.brother-usa.com/products/MFCJ995DW",
+				"Tech": "Jet",
+				"InkModel": "LC3033BK",
+				"Yield": "3000",
+				"InkCost": "35",
+				"ListPrice": "200",
+				"TouchScreen": "2.7",
+				"Volume": "1500",
+				"Dimensions": {
+					"Width": "17.1",
+					"Depth": "13.4",
+					"Height": "7.7"
+				}
+			},
+			{
+				"Make": "Brother",
+				"Model": "MFC-L3710CW",
+				"Href": "https://www.brother-usa.com/products/MFCL3710CW",
+				"Tech": "LED",
+				"InkModel": "TN227C",
+				"Yield": "3000",
+				"InkCost": "78",
+				"ListPrice": "350",
+				"TouchScreen": "3.7",
+				"Volume": "1500",
+				"Dimensions": {
+					"Width": "16.1",
+					"Depth": "18.7",
+					"Height": "16.3"
+				}
+			},
+			{
+				"Make": "Brother",
+				"Model": "MFC-L3750CDW",
+				"Href": "https://www.brother-usa.com/products/MFCL3750CDW",
+				"Tech": "LED",
+				"InkModel": "TN227BK",
+				"Yield": "3000",
+				"InkCost": "78",
+				"ListPrice": "400",
+				"TouchScreen": "3.7",
+				"Volume": "1500",
+				"Dimensions": {
+					"Width": "16.1",
+					"Depth": "18.7",
+					"Height": "16.3"
+				}
+			},
+			{
+				"Make": "Brother",
+				"Model": "MFC-L3770CDW",
+				"Href": "https://www.brother-usa.com/products/MFCL3770CDW",
+				"Tech": "Lsr",
+				"InkModel": "TN227BK",
+				"Yield": "3000",
+				"InkCost": "73",
+				"ListPrice": "400",
+				"OtherPrice": "0",
+				"TouchScreen": "3.7",
+				"Volume": "1500",
+				"Notes": "Real buttons for numbers; can't find in Amazon",
+				"Dimensions": {
+					"Width": "16.1",
+					"Depth": "20",
+					"Height": "16.3"
+				}
+			},
+			{
+				"Make": "Brother",
+				"Model": "MFC-L8610CDW",
+				"Href": "https://www.brother-usa.com/products/MFCL8610CDW",
+				"Tech": "Lsr",
+				"InkModel": "TN433BK",
+				"Yield": "4500",
+				"InkCost": "79",
+				"ListPrice": "530",
+				"OtherPrice": "430",
+				"TouchScreen": "3.7",
+				"Volume": "3000",
+				"Notes": "Business; Real buttons for numbers",
+				"Dimensions": {
+					"Width": "19.5",
+					"Depth": "20.7",
+					"Height": "21.6"
+				}
+			},
+			{
+				"Make": "Brother",
+				"Model": "MFC-L8900CDW",
+				"Href": "https://www.brother-usa.com/products/MFCL8900CDW",
+				"Tech": "Lsr",
+				"InkModel": "TN433BK",
+				"Yield": "4500",
+				"InkCost": "79",
+				"ListPrice": "600",
+				"OtherPrice": "500",
+				"TouchScreen": "5",
+				"Volume": "4000",
+				"Notes": "Business; Real buttons for numbers",
+				"Dimensions": {
+					"Width": "19.5",
+					"Depth": "20.7",
+					"Height": "21.6"
+				}
+			},
+			{
+				"Make": "Epson",
+				"Model": "ET-4750",
+				"Href": "https://epson.com/For-Work/Printers/Inkjet/WorkForce-ET-4750-EcoTank-All-in-One-Supertank-Printer/p/C11CG19201",
+				"Tech": "Jet",
+				"InkModel": "T502",
+				"Yield": "7500",
+				"InkCost": "20",
+				"ListPrice": "500",
+				"OtherPrice": "400",
+				"TouchScreen": "2.4",
+				"Volume": "0",
+				"Notes": "EcoTank; sale $400 (closeout); comes with 2 Years of Ink",
+				"Dimensions": {
+					"Width": "16.4",
+					"Depth": "19.8",
+					"Height": "10.0"
+				}
+			},
+			{
+				"Make": "Epson",
+				"Model": "WF-4630",
+				"Href": "https://epson.com/For-Work/Printers/Inkjet/Epson-WorkForce-Pro-WF-4630-All-in-One-Printer/p/C11CD10201",
+				"Tech": "Jet",
+				"InkModel": "T786XL120-S",
+				"Yield": "2600",
+				"InkCost": "42",
+				"ListPrice": "300",
+				"TouchScreen": "3.5",
+				"Dimensions": {
+					"Width": "18.1",
+					"Depth": "25.8",
+					"Height": "15.1"
+				}
+			},
+			{
+				"Make": "Epson",
+				"Model": "WF-4734",
+				"Href": "https://epson.com/For-Work/Printers/Inkjet/WorkForce-Pro-WF-4734-All-in-One-Printer/p/C11CG01204",
+				"Tech": "Jet",
+				"InkModel": "T802XL120",
+				"Yield": "2600",
+				"InkCost": "50",
+				"OtherPrice": "125",
+				"TouchScreen": "no",
+				"Notes": "Member Only for Costco and Sam's Club",
+				"Dimensions": {
+					"Width": "16.7",
+					"Depth": "19.8",
+					"Height": "13"
+				}
+			},
+			{
+				"Make": "Epson",
+				"Model": "WF-4740",
+				"Href": "https://epson.com/For-Work/Printers/Inkjet/WorkForce-Pro-WF-4740-All-in-One-Printer/p/C11CF75201",
+				"Tech": "Jet",
+				"InkModel": "T802XL120-S",
+				"Yield": "2600",
+				"InkCost": "50",
+				"ListPrice": "300",
+				"TouchScreen": "4.3",
+				"Dimensions": {
+					"Width": "16.7",
+					"Depth": "19.8",
+					"Height": "13"
+				}
+			},
+			{
+				"Make": "Epson",
+				"Model": "WF-6530",
+				"Href": "https://epson.com/For-Work/Printers/Inkjet/Epson-WorkForce-Pro-WF-6530-All-in-One-Printer/p/C11CD48201",
+				"Tech": "Jet",
+				"InkModel": "T748XL120",
+				"Yield": "5000",
+				"InkCost": "100",
+				"ListPrice": "500",
+				"TouchScreen": "4.3",
+				"Dimensions": {
+					"Width": "20.3",
+					"Depth": "29.8",
+					"Height": "21.3"
+				}
+			},
+			{
+				"Make": "Epson",
+				"Model": "WF-6590",
+				"Href": "https://epson.com/For-Work/Printers/Inkjet/Epson-WorkForce-Pro-WF-6590-Network-Multifunction-Color-Printer/p/C11CD49201-NA",
+				"Tech": "Jet",
+				"InkModel": "T748XL120",
+				"Yield": "10000",
+				"InkCost": "100",
+				"ListPrice": "450",
+				"TouchScreen": "no",
+				"Notes": "Real buttons;",
+				"Dimensions": {
+					"Width": "20.3",
+					"Depth": "29.8",
+					"Height": "21.3"
+				}
+			},
+			{
+				"Make": "Epson",
+				"Model": "WF-7610",
+				"Href": "https://epson.com/For-Work/Printers/Inkjet/Epson-WorkForce-WF-7610-All-in-One-Printer/p/C11CC98201",
+				"Tech": "Jet",
+				"InkModel": "T254XL120-S",
+				"Yield": "2200",
+				"InkCost": "70",
+				"ListPrice": "250",
+				"TouchScreen": "4.3",
+				"Dimensions": {
+					"Width": "22.3",
+					"Depth": "32.2",
+					"Height": "13.4"
+				}
+			},
+			{
+				"Make": "Epson",
+				"Model": "WF-7620",
+				"Href": "https://epson.com/For-Work/Printers/Inkjet/Epson-WorkForce-WF-7620-All-in-One-Printer/p/C11CC97201",
+				"Tech": "Jet",
+				"InkModel": "T254XL120-S",
+				"Yield": "2200",
+				"InkCost": "70",
+				"ListPrice": "300",
+				"TouchScreen": "4.3",
+				"Notes": "Sale $200;",
+				"Dimensions": {
+					"Width": "22.3",
+					"Depth": "32.2",
+					"Height": "16.5"
+				}
+			},
+			{
+				"Make": "Epson",
+				"Model": "WF-7710",
+				"Href": "https://epson.com/For-Work/Printers/Inkjet/WorkForce-WF-7710-Wide-format-All-in-One-Printer/p/C11CG36201",
+				"Tech": "Jet",
+				"InkModel": "T254XL120-S",
+				"Yield": "2200",
+				"InkCost": "70",
+				"ListPrice": "250",
+				"TouchScreen": "4.3",
+				"Notes": "Wide-format; sale $150",
+				"Dimensions": {
+					"Width": "22.3",
+					"Depth": "32.2",
+					"Height": "13.4"
+				}
+			},
+			{
+				"Make": "Epson",
+				"Model": "WF-7720",
+				"Href": "https://epson.com/For-Work/Printers/Inkjet/WorkForce-WF-7720-Wide-format-All-in-One-Printer/p/C11CG37201",
+				"Tech": "Jet",
+				"InkModel": "T254XL120-S",
+				"Yield": "2200",
+				"InkCost": "70",
+				"ListPrice": "300",
+				"TouchScreen": "4.3",
+				"Notes": "Wide-format;",
+				"Dimensions": {
+					"Width": "22.3",
+					"Depth": "32.2",
+					"Height": "13.4"
+				}
+			},
+			{
+				"Make": "Epson",
+				"Model": "WF-C5790",
+				"Href": "https://epson.com/For-Work/Printers/Inkjet/WorkForce-Pro-WF-C5790-Network-Multifunction-Color-Printer-with-Replaceable-Ink-Pack-System/p/C11CG02201",
+				"Tech": "Jet",
+				"InkModel": "T902XL",
+				"Yield": "5000",
+				"InkCost": "83",
+				"ListPrice": "300",
+				"TouchScreen": "no?",
+				"Dimensions": {
+					"Width": "16.7",
+					"Depth": "22.8",
+					"Height": "17.7"
+				}
+			},
+			{
+				"Make": "Lexmark",
+				"Model": "CX317dn",
+				"Href": "https://www.lexmark.com/en_us/printer/11102/Lexmark-CX317dn",
+				"Tech": "Lsr",
+				"InkModel": "71B10K0",
+				"Yield": "3000",
+				"InkCost": "92",
+				"ListPrice": "400",
+				"OtherPrice": "250",
+				"TouchScreen": "no",
+				"Volume": "5000",
+				"Notes": "Real buttons; 500 minimum volume?; ink cost is for a return; WiFi extra",
+				"Dimensions": {
+					"Width": "17.48",
+					"Depth": "22",
+					"Height": "18.44"
+				}
+			},
+			{
+				"Make": "Lexmark",
+				"Model": "CX417de",
+				"Href": "https://www.lexmark.com/en_us/printer/11103/Lexmark-CX417de",
+				"Tech": "Lsr",
+				"InkModel": "71B10K0",
+				"Yield": "3000",
+				"InkCost": "92",
+				"ListPrice": "600",
+				"OtherPrice": "500",
+				"TouchScreen": "4.3",
+				"Volume": "6000",
+				"Notes": "Real buttons; 800 minimum volume?",
+				"Dimensions": {
+					"Width": "17.48",
+					"Depth": "21.99",
+					"Height": "18.44"
+				}
+			},
+			{
+				"Make": "Lexmark",
+				"Model": "MC2325adw",
+				"Href": "https://www.lexmark.com/en_us/printer/12477/Lexmark-MC2325adw",
+				"Tech": "Lsr",
+				"InkModel": "C231HK0",
+				"Yield": "3000",
+				"InkCost": "92",
+				"ListPrice": "400",
+				"OtherPrice": "0",
+				"TouchScreen": "no",
+				"Volume": "5000",
+				"Notes": "Sale $300; Real buttons; 500 minimum volume?; sold out?; ink cost is for a return",
+				"Dimensions": {
+					"Width": "17.4",
+					"Depth": "21.9",
+					"Height": "18.2"
+				}
+			},
+			{
+				"Make": "Lexmark",
+				"Model": "MC2425adw",
+				"Href": "https://www.lexmark.com/en_us/printer/12478/Lexmark-MC2425adw",
+				"Tech": "Lsr",
+				"InkModel": "C231HK0",
+				"Yield": "3000",
+				"InkCost": "92",
+				"ListPrice": "500",
+				"OtherPrice": "0",
+				"TouchScreen": "no",
+				"Volume": "6500",
+				"Notes": "Sale $400; Real buttons; 800 minimum volume?; ink cost is for a return",
+				"Dimensions": {
+					"Width": "17.4",
+					"Depth": "21.9",
+					"Height": "18.2"
+				}
+			},
+			{
+				"Make": "Xerox",
+				"Model": "6027",
+				"Href": "https://www.xerox.com/en-us/search?q=6027",
+				"Tech": "LED",
+				"InkModel": "106R02759",
+				"Yield": "2000",
+				"InkCost": "15",
+				"ListPrice": "430",
+				"OtherPrice": "200",
+				"TouchScreen": "no",
+				"Volume": "30000",
+				"Notes": "Bad reviews; might work okay after firmware update",
+				"Dimensions": {
+					"Width": "16.2",
+					"Depth": "17.2",
+					"Height": "15.3"
+				}
+			},
+			{
+				"Make": "Xerox",
+				"Model": "6515 DNI",
+				"Href": "https://www.xerox.com/en-us/search?q=6515",
+				"Tech": "LED",
+				"InkModel": "108R01420",
+				"Yield": "48000",
+				"InkCost": "90",
+				"ListPrice": "600",
+				"OtherPrice": "350",
+				"TouchScreen": "no",
+				"Volume": "50000",
+				"Notes": "Sale $380; Bad reviews; List price was $550; DNI model for Wi-Fi",
+				"Dimensions": {
+					"Width": "16.5",
+					"Depth": "19.9",
+					"Height": "19.7"
+				}
+			}
+		],
+		"_xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+		"_xmlns:xsd": "http://www.w3.org/2001/XMLSchema",
+		"_xmlns": "http://tempuri.org/Printers.xsd"
+	}
+}
